@@ -40,6 +40,17 @@ export function formatDate(iso: string | null): string {
   return FR_DATE.format(new Date(iso));
 }
 
+const SOURCE_LABELS: Record<string, string> = {
+  "consultations-publiques.developpement-durable.gouv.fr": "Transition écologique",
+  "agriculture.gouv.fr": "Agriculture",
+  "economie.gouv.fr": "Économie",
+};
+
+export function sourceLabel(source: string | null): string | null {
+  if (!source) return null;
+  return SOURCE_LABELS[source] ?? source;
+}
+
 export function loadConsultations(): Consultation[] {
   const path = join(process.cwd(), "data", "digests.json");
   const data = JSON.parse(readFileSync(path, "utf-8")) as Consultation[];

@@ -1,0 +1,54 @@
+name: Rafraîchir les consultations
+
+# Lucarne ne doit jamais afficher un stock vide : on rescrape et on régénère
+# les digests chaque jour, puis on commit. Le commit sur web/data déclenche
+# le redéploiement Vercel automatiquement.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # tous les jours 06:00 UTC (08:00 Paris)
+  workflow_dispatch: {} # déclenchement manuel possible
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-consultations
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Scraper les consultations ouvertes
+        run: python scraper/scrape.py
+
+      - name: Générer les digests IA
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scraper/digest.py
+
+      - name: Synchroniser vers l'app
+        run: cp data/digests.json web/data/digests.json
+
+      - name: Commit si changement
+        run: |
+          git config user.name "lucarne-bot"
+          git config user.email "cames.sacha@gmail.com"
+          git add data/consultations.json data/digests.json web/data/digests.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement — rien à commiter."
+          else
+            git commit -m "chore: rafraîchissement quotidien des consultations"
+            git push
+          fi

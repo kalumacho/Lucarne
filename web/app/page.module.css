@@ -115,6 +115,19 @@
   color: #6a6a80;
   font-weight: 600;
 }
+.source {
+  color: #6a6a80;
+  font-weight: 600;
+  padding: 2px 9px;
+  border: 1px solid #e0e0ea;
+  border-radius: 999px;
+}
+@media (prefers-color-scheme: dark) {
+  .source {
+    color: #b9c0ff;
+    border-color: #2a2a36;
+  }
+}
 .contrib {
   color: #9a9ab0;
   margin-left: auto;

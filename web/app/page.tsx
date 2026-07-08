@@ -3,6 +3,7 @@ import {
   urgency,
   joursLabel,
   formatDate,
+  sourceLabel,
 } from "./lib/consultations";
 import styles from "./page.module.css";
 
@@ -20,9 +21,9 @@ export default function Home() {
           Ce qui se décide, <span>pendant qu’il est encore temps d’agir.</span>
         </h1>
         <p className={styles.sub}>
-          Consultations publiques environnementales ouvertes, triées par urgence.
-          Source&nbsp;: portail national des consultations
-          (developpement-durable.gouv.fr).
+          Consultations publiques de l’État ouvertes, triées par urgence.
+          Sources&nbsp;: portails officiels transition écologique, agriculture
+          et économie.
         </p>
         <div className={styles.stats}>
           <span>
@@ -43,8 +44,8 @@ export default function Home() {
                 <span className={`${styles.badge} ${styles[`badge_${u}`]}`}>
                   {joursLabel(c.days_left)}
                 </span>
-                {c.category && (
-                  <span className={styles.category}>{c.category}</span>
+                {sourceLabel(c.source) && (
+                  <span className={styles.source}>{sourceLabel(c.source)}</span>
                 )}
                 <span className={styles.contrib}>
                   {c.contributions} contribution{c.contributions > 1 ? "s" : ""}
