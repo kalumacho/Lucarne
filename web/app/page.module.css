@@ -1,7 +1,7 @@
 .main {
   max-width: 860px;
   margin: 0 auto;
-  padding: 48px 24px 80px;
+  padding: 40px 24px 80px;
 }
 
 .nav {
@@ -12,14 +12,79 @@
 .nav a {
   font-size: 13px;
   font-weight: 700;
-  color: #10108a;
-  text-decoration: none;
-  border: 1px solid #d6d6e0;
+  color: var(--bleu);
+  border: 1px solid var(--bleu-bord);
   border-radius: 999px;
   padding: 7px 15px;
 }
 .nav a:hover {
-  background: #f0f0fb;
+  background: var(--bleu-tint);
+}
+
+/* ---- Hero (ton clair, liseré tricolore) ---- */
+.hero {
+  position: relative;
+  padding: 40px 36px 44px;
+  border-radius: 18px;
+  background: linear-gradient(160deg, #f4f8fd 0%, var(--bleu-tint) 100%);
+  border: 1px solid var(--bleu-bord);
+  color: var(--texte);
+  margin-bottom: 40px;
+  overflow: hidden;
+}
+/* bande tricolore en haut du hero */
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(
+    to right,
+    var(--bleu) 0 33.33%,
+    var(--blanc) 33.33% 66.66%,
+    var(--rouge) 66.66% 100%
+  );
+}
+.kicker {
+  font-size: 12px;
+  letter-spacing: 0.28em;
+  font-weight: 800;
+  color: var(--bleu);
+  margin-bottom: 18px;
+}
+.title {
+  font-size: clamp(28px, 5vw, 42px);
+  line-height: 1.12;
+  font-weight: 800;
+  margin: 0 0 18px;
+  letter-spacing: -0.02em;
+  color: var(--texte);
+}
+.title span {
+  color: var(--bleu);
+}
+.sub {
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--texte-doux);
+  max-width: 620px;
+  margin: 0 0 26px;
+}
+.stats {
+  display: flex;
+  gap: 28px;
+  font-size: 14px;
+  color: var(--texte-doux);
+}
+.stats strong {
+  font-size: 20px;
+  color: var(--bleu);
+  margin-right: 6px;
+}
+.statAlert strong {
+  color: var(--rouge);
 }
 
 /* ---- Sections ---- */
@@ -30,7 +95,7 @@
   font-size: 15px;
   font-weight: 800;
   letter-spacing: -0.01em;
-  color: #16162a;
+  color: var(--texte);
   margin: 0 0 16px;
 }
 .sectionTitle:empty {
@@ -39,9 +104,9 @@
 .empty {
   font-size: 14px;
   line-height: 1.6;
-  color: #6a6a80;
-  background: #f6f6fb;
-  border: 1px solid #ececf4;
+  color: var(--texte-doux);
+  background: var(--gris-fond);
+  border: 1px solid var(--bord);
   border-radius: 12px;
   padding: 16px 18px;
   margin: 0;
@@ -49,56 +114,8 @@
 .geo {
   font-size: 13px;
   font-weight: 600;
-  color: #10108a;
+  color: var(--bleu);
   margin: 0 0 14px;
-}
-
-/* ---- Hero ---- */
-.hero {
-  padding: 40px 36px 44px;
-  border-radius: 20px;
-  background: linear-gradient(135deg, #10108a 0%, #1c1c9e 55%, #3a1a72 100%);
-  color: #fff;
-  margin-bottom: 40px;
-}
-.kicker {
-  font-size: 12px;
-  letter-spacing: 0.28em;
-  font-weight: 700;
-  opacity: 0.75;
-  margin-bottom: 20px;
-}
-.title {
-  font-size: clamp(28px, 5vw, 42px);
-  line-height: 1.12;
-  font-weight: 800;
-  margin: 0 0 18px;
-  letter-spacing: -0.02em;
-}
-.title span {
-  color: #b9c0ff;
-  font-weight: 700;
-}
-.sub {
-  font-size: 15px;
-  line-height: 1.6;
-  color: #cdd2ff;
-  max-width: 620px;
-  margin: 0 0 26px;
-}
-.stats {
-  display: flex;
-  gap: 28px;
-  font-size: 14px;
-  color: #cdd2ff;
-}
-.stats strong {
-  font-size: 20px;
-  color: #fff;
-  margin-right: 6px;
-}
-.statAlert strong {
-  color: #ff5a6e;
 }
 
 /* ---- Liste ---- */
@@ -112,26 +129,26 @@
 }
 
 .card {
-  border: 1px solid #e6e6ee;
-  border-left: 5px solid #c9c9d6;
+  border: 1px solid var(--bord);
+  border-left: 5px solid var(--bleu-bord);
   border-radius: 14px;
   padding: 22px 24px;
-  background: #fff;
+  background: var(--blanc);
   transition: box-shadow 0.15s ease, transform 0.15s ease;
 }
 .card:hover {
-  box-shadow: 0 8px 28px rgba(20, 20, 90, 0.08);
+  box-shadow: 0 8px 28px rgba(0, 65, 125, 0.1);
   transform: translateY(-1px);
 }
 .critique {
-  border-left-color: #e4002b;
-  background: #fff8f8;
+  border-left-color: var(--rouge);
+  background: #fffafa;
 }
 .proche {
   border-left-color: #f0a020;
 }
 .ouverte {
-  border-left-color: #10108a;
+  border-left-color: var(--bleu);
 }
 
 .meta {
@@ -149,7 +166,7 @@
   letter-spacing: 0.01em;
 }
 .badge_critique {
-  background: #e4002b;
+  background: var(--rouge);
   color: #fff;
 }
 .badge_proche {
@@ -157,28 +174,18 @@
   color: #8a5a00;
 }
 .badge_ouverte {
-  background: #e7e7fb;
-  color: #10108a;
-}
-.category {
-  color: #6a6a80;
-  font-weight: 600;
+  background: var(--bleu-tint);
+  color: var(--bleu);
 }
 .source {
-  color: #6a6a80;
+  color: var(--texte-doux);
   font-weight: 600;
   padding: 2px 9px;
-  border: 1px solid #e0e0ea;
+  border: 1px solid var(--bord);
   border-radius: 999px;
 }
-@media (prefers-color-scheme: dark) {
-  .source {
-    color: #b9c0ff;
-    border-color: #2a2a36;
-  }
-}
 .contrib {
-  color: #9a9ab0;
+  color: #9aa3b4;
   margin-left: auto;
 }
 
@@ -186,14 +193,14 @@
   font-size: 16px;
   line-height: 1.4;
   font-weight: 700;
-  color: #16162a;
+  color: var(--texte);
   margin: 0 0 10px;
 }
 .digest {
   font-size: 14.5px;
   line-height: 1.65;
-  color: #3a3a52;
-  margin: 0 0 18px;
+  color: #3a4256;
+  margin: 0 0 14px;
 }
 
 .footer {
@@ -202,18 +209,17 @@
   justify-content: space-between;
   gap: 14px;
   flex-wrap: wrap;
-  border-top: 1px solid #f0f0f5;
+  border-top: 1px solid var(--bord);
   padding-top: 14px;
 }
 .dates {
   font-size: 12.5px;
-  color: #8a8aa0;
+  color: var(--texte-doux);
 }
 .action {
   font-size: 14px;
   font-weight: 700;
-  color: #10108a;
-  text-decoration: none;
+  color: var(--bleu);
   white-space: nowrap;
 }
 .action:hover {
@@ -224,46 +230,6 @@
   margin-top: 44px;
   text-align: center;
   font-size: 12.5px;
-  color: #9a9ab0;
+  color: #9aa3b4;
   line-height: 1.6;
-}
-
-@media (prefers-color-scheme: dark) {
-  .nav a {
-    color: #b9c0ff;
-    border-color: #2a2a36;
-  }
-  .nav a:hover {
-    background: #1a1a24;
-  }
-  .sectionTitle {
-    color: #f0f0f5;
-  }
-  .empty {
-    background: #16161d;
-    border-color: #2a2a36;
-    color: #b4b4c8;
-  }
-  .geo {
-    color: #b9c0ff;
-  }
-  .card {
-    background: #16161d;
-    border-color: #2a2a36;
-  }
-  .critique {
-    background: #241416;
-  }
-  .cardTitle {
-    color: #f0f0f5;
-  }
-  .digest {
-    color: #c4c4d4;
-  }
-  .footer {
-    border-top-color: #2a2a36;
-  }
-  .action {
-    color: #b9c0ff;
-  }
 }

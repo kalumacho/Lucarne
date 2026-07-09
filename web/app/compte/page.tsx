@@ -15,7 +15,7 @@ export default async function Compte() {
 
   const { data: profile } = await supabase
     .from("profiles")
-    .select("ville, code_postal")
+    .select("prenom, nom, ville, code_postal")
     .eq("id", user.id)
     .maybeSingle();
 
@@ -24,13 +24,15 @@ export default async function Compte() {
       <a className={styles.back} href="/">
         ← Retour aux consultations
       </a>
-      <h1 className={styles.title}>Ma commune</h1>
+      <h1 className={styles.title}>Mon compte</h1>
       <p className={styles.lead}>
-        Indiquez votre ville et votre code postal. Lucarne mettra en avant les
+        Vos informations et votre commune. Lucarne met en avant les
         consultations qui concernent votre département.
       </p>
       <ProfileForm
         email={user.email ?? ""}
+        prenom={profile?.prenom ?? ""}
+        nom={profile?.nom ?? ""}
         ville={profile?.ville ?? ""}
         codePostal={profile?.code_postal ?? ""}
       />
