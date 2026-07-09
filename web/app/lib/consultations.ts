@@ -10,6 +10,7 @@ export type Consultation = {
   contributions: number;
   url: string;
   source: string | null;
+  departements: string[];
   digest: string;
 };
 
@@ -53,7 +54,8 @@ export function sourceLabel(source: string | null): string | null {
 
 export function loadConsultations(): Consultation[] {
   const path = join(process.cwd(), "data", "digests.json");
-  const data = JSON.parse(readFileSync(path, "utf-8")) as Consultation[];
+  const raw = JSON.parse(readFileSync(path, "utf-8")) as Consultation[];
+  const data = raw.map((c) => ({ ...c, departements: c.departements ?? [] }));
   // Tri par urgence : clôtures les plus proches d'abord, dates inconnues en fin.
   return data.sort((a, b) => {
     if (a.days_left === null) return 1;

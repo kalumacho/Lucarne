@@ -21,6 +21,8 @@ from pathlib import Path
 
 import anthropic
 
+from sources.departements import detect as detect_departements
+
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "consultations.json"
 OUT = ROOT / "data" / "digests.json"
@@ -117,6 +119,9 @@ def main() -> None:
             "contributions": c.get("contributions"),
             "url": c["url"],
             "source": c.get("source"),
+            # Géo détectée sur le texte propre (titre + digest), pas le corps
+            # brut, pour éviter le bruit administratif (« publié à Paris »…).
+            "departements": detect_departements(c["title"], summary),
             "digest": summary,
         })
 
