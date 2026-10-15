@@ -1,207 +1,195 @@
 [
   {
-    "title": "Projet d’arrêté portant suppression de fiches d’opérations standardisées du dispositif des certificats d’économies d’énergie",
-    "category": "Projet d’arrêté portant suppression de fiches d’opérations standardisées du dispositif des certificats d’économies d’énergie",
-    "opened_at": "2026-09-16",
-    "closes_at": "2026-10-14",
-    "days_left": 0,
-    "contributions": 17,
-    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-suppression-de-fiches-d-a3428.html",
-    "source": "consultations-publiques.developpement-durable.gouv.fr",
-    "departements": [],
-    "digest": "Ce projet d’arrêté concerne les certificats d’économies d’énergie (CEE), un système qui récompense les travaux permettant de réduire la consommation d’énergie. Le texte prévoit de retirer de la liste officielle certaines fiches donnant droit à ces aides, d’une part celles liées à des équipements utilisant des énergies fossiles (environ 5 TWhc engagés en 2025), d’autre part celles qui ne sont plus utilisées. Le public peut donner son avis dans le cadre de cette consultation ouverte du 16 septembre 2026 au 14 octobre 2026."
-  },
-  {
     "title": "Projet de décret modifiant la nomenclature des installations classées pour la protection de l’environnement",
     "category": "Projet de décret modifiant la nomenclature des installations classées pour la protection de l’environnement",
     "opened_at": "2026-09-23",
     "closes_at": "2026-10-15",
-    "days_left": 1,
-    "contributions": 4,
+    "days_left": 0,
+    "contributions": 5,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-de-decret-modifiant-la-nomenclature-des-a3432.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet de décret modifie la façon dont sont classés les ateliers où l'on recharge des batteries au plomb, dans le cadre de la réglementation des installations surveillées pour la protection de l'environnement. Il prévoit qu'un atelier devra se déclarer si la quantité d'hydrogène produite lors d'une charge dépasse 6 000 litres, ou si la puissance totale de ses équipements de charge dépasse 600 kilowatts, afin de prendre en compte les risques d'explosion et d'incendie. Chacun peut déposer ses observations via le lien « Déposer votre commentaire » en bas de la page de consultation, jusqu'au 13 octobre 2026 inclus."
+    "digest": "Ce projet de décret modifie les règles de classement environnemental des ateliers où l'on recharge des batteries électriques, en particulier les batteries au plomb. Il prévoit qu'un atelier devra être déclaré aux autorités si la quantité d'hydrogène dégagée lors d'une charge dépasse 6 000 litres, et/ou si la puissance totale de ses équipements de charge dépasse 600 kilowatts, afin de prendre en compte les risques d'explosion et d'incendie. Chacun peut déposer ses observations via le lien « Déposer votre commentaire » en bas de la page de consultation, jusqu'au 13 octobre 2026 inclus."
   },
   {
     "title": "Projets de textes (un décret et deux arrêtés ministériels) pour encadrer la production industrielle d’hydrogène par électrolyse de l’eau.",
     "category": "Projets de textes (un décret et deux arrêtés ministériels) pour encadrer la production industrielle d’hydrogène par électrolyse de l’eau.",
     "opened_at": "2026-09-23",
     "closes_at": "2026-10-15",
-    "days_left": 1,
-    "contributions": 4,
+    "days_left": 0,
+    "contributions": 6,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projets-de-textes-un-decret-et-deux-arretes-a3433.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Il s'agit de trois projets de textes (un décret et deux arrêtés) qui fixent des règles pour les installations produisant de l'hydrogène en séparant les composants de l'eau grâce à l'électricité. Ces textes créent trois niveaux d'encadrement selon la taille des installations produisant entre 500 kg et 50 tonnes d'hydrogène par jour, en limitant la consommation d'eau et en imposant des mesures de sécurité comme des détecteurs de fuite, des arrêts d'urgence, des distances d'éloignement et la formation du personnel. Chacun peut déposer ses observations via le lien « Déposer votre commentaire » en bas de la page de la consultation, jusqu'au 13 octobre 2026 inclus."
+    "digest": "Le gouvernement propose trois textes (un décret et deux arrêtés) pour fixer les règles applicables aux installations industrielles qui produisent de l'hydrogène en décomposant l'eau grâce à l'électricité. Ces règles s'appliqueraient aux sites produisant entre 500 kg et 50 tonnes d'hydrogène par jour, avec trois niveaux d'obligations selon leur taille, et porteraient sur l'encadrement de l'eau consommée ainsi que sur la prévention des accidents liés à ce gaz explosif (détecteurs de fuite, arrêts d'urgence, distances d'éloignement, formation du personnel). Le public peut consulter les textes et déposer ses observations via le lien « Déposer votre commentaire » jusqu'au 13 octobre 2026 inclus."
   },
   {
     "title": "Projet d’arrêté ministériel de prescriptions générales relatif aux installations mettant en œuvre la galvanisation discontinue.",
     "category": "Projet d’arrêté ministériel de prescriptions générales relatif aux installations mettant en œuvre la galvanisation discontinue.",
     "opened_at": "2026-09-23",
     "closes_at": "2026-10-15",
-    "days_left": 1,
+    "days_left": 0,
     "contributions": 0,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-ministeriel-de-prescriptions-a3434.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté concerne les usines qui protègent des pièces métalliques contre la rouille en les trempant dans un bain de zinc en fusion, une technique appelée galvanisation discontinue utilisée dans environ 70 installations en France. Le texte fixe des règles environnementales communes à ces installations, portant notamment sur les rejets dans l’air et dans l’eau, afin d’appliquer les meilleures techniques disponibles définies au niveau européen avant le 4 novembre 2026, tout en permettant au préfet d’ajouter des exigences selon les situations locales. Le public peut déposer ses observations via le lien « Déposer votre commentaire » en bas de la page de consultation, jusqu’au 13 octobre 2026 inclus."
+    "digest": "Ce projet d'arrêté ministériel concerne les usines qui recouvrent des pièces métalliques d'une couche de zinc fondu pour les protéger de la rouille, un procédé appelé galvanisation discontinue, mis en œuvre dans environ 70 installations en France. Il fixe des règles environnementales communes à l'échelle nationale, portant notamment sur les rejets dans l'air et dans l'eau, pour appliquer des normes techniques européennes que ces sites doivent respecter au plus tard le 4 novembre 2026, tout en permettant au préfet d'ajouter des exigences selon les situations locales. Le public peut déposer ses observations via le bouton « Déposer votre commentaire » en bas de la page de consultation, du 23 septembre au 13 octobre 2026 inclus."
   },
   {
     "title": "Avis de participation du public pour une demande de prolongation du permis exclusif de recherches de mines polymétalliques dit « FAYAT »",
     "category": "Actualités",
     "opened_at": "2026-09-14",
     "closes_at": "2026-10-19",
-    "days_left": 5,
+    "days_left": 4,
     "contributions": 0,
     "url": "https://www.economie.gouv.fr/actualites/avis-de-participation-du-public-pour-une-demande-de-prolongation-du-permis-exclusif-de-recherches-de-mines-polymetalliques-dit-fayat",
     "source": "www.economie.gouv.fr",
     "departements": [
       "87"
     ],
-    "digest": "La société Compagnie des mines Arédiennes demande à prolonger pour cinq ans son permis exclusif de recherches de mines « FAYAT », qui concerne les communes de Château-Chervix, Coussac-Bonneval, La Roche-l'Abeille, Meuzac, Saint-Priest-Ligoure et Saint-Yrieix-la-Perche, en Haute-Vienne. Ce permis autorise la recherche de nombreux métaux dans ce secteur, dont l'or, l'argent, le lithium, le cuivre, le zinc, le cobalt et les terres rares. Chacun peut transmettre ses commentaires par courriel à l'adresse 2e.sd2.de.dgec@developpement-durable.gouv.fr jusqu'au 19 octobre 2026 à midi."
+    "digest": "La société Compagnie des mines Arédiennes demande à prolonger de cinq ans son permis exclusif de recherches de mines dit « FAYAT », dans le département de la Haute-Vienne. Ce permis autorise la recherche de nombreux minerais (or, argent, antimoine, tungstène, lithium, cuivre, zinc, terres rares, entre autres) sur tout ou partie des communes de Château-Chervix, Coussac-Bonneval, La Roche-l'Abeille, Meuzac, Saint-Priest-Ligoure et Saint-Yrieix-la-Perche. Le public peut envoyer ses commentaires par courriel à l'adresse 2e.sd2.de.dgec@developpement-durable.gouv.fr jusqu'au 19 octobre 2026 à midi."
   },
   {
     "title": "Projet d’arrêté portant autorisation exceptionnelle, au titre de l’article L. 121-5 du code de l’urbanisme, en vue de la reconstruction de la station d’épuration sur la commune de Frossay (Loire-Atlantique) soumise à la loi littoral",
     "category": "Projet d’arrêté portant autorisation exceptionnelle, au titre de l’article L. 121-5 du code de l’urbanisme, en vue de la reconstruction de la station d’épuration sur la commune de Frossay (Loire-Atlantique) soumise à la loi littoral",
     "opened_at": "2026-10-06",
     "closes_at": "2026-10-21",
-    "days_left": 7,
+    "days_left": 6,
     "contributions": 0,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-autorisation-a3439.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [
       "44"
     ],
-    "digest": "Cette consultation porte sur un projet d'arrêté autorisant, à titre exceptionnel et par dérogation à la loi littoral, la reconstruction de la station d'épuration de la commune de Frossay (Loire-Atlantique). Le projet prévoit la collecte et le traitement des eaux usées de la commune au moyen de cette nouvelle station, sans lien avec une nouvelle opération d'urbanisation. Le public peut consulter les documents (demande de dérogation et ses annexes, courrier du préfet, projet d'arrêté) et transmettre ses observations jusqu'au 21 octobre 2026."
+    "digest": "Il s'agit d'un projet d'arrêté autorisant à titre exceptionnel la reconstruction de la station d'épuration de la commune de Frossay (Loire-Atlantique), située dans une zone protégée par la loi littoral. Cette station servirait à collecter et à traiter les eaux usées de la commune, grâce à une dérogation aux règles d'urbanisme qui s'appliquent normalement sur le littoral. Le public peut consulter les documents (demande de dérogation, courrier du préfet et projet d'arrêté) et transmettre ses observations jusqu'au 21 octobre 2026."
   },
   {
     "title": "Projet d’arrêté portant création du programme PRO-INNO-88 dans le cadre du dispositif des certificats d’économies d’énergie",
     "category": "Projet d’arrêté portant création du programme PRO-INNO-88 dans le cadre du dispositif des certificats d’économies d’énergie",
     "opened_at": "2026-09-29",
     "closes_at": "2026-10-21",
-    "days_left": 7,
+    "days_left": 6,
     "contributions": 6,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-creation-du-programme-pro-a3435.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté crée un programme d’information nommé « Performance du réseau ferroviaire », porté par l’ADEME, dans le cadre des certificats d’économies d’énergie, un dispositif qui soutient des actions en faveur des économies d’énergie. Le programme vise à régénérer et moderniser le réseau ferré national pour améliorer la fiabilité, les fréquences et la vitesse des trains de voyageurs et de marchandises, avec des versements pouvant aller jusqu’à 241 millions d’euros pour des contributions effectuées jusqu’au 31 décembre 2029. Le public peut participer à la consultation du 28 septembre 2026 au 19 octobre 2026 inclus."
+    "digest": "Ce projet d’arrêté crée un programme nommé « Performance du réseau ferroviaire », porté par l’ADEME, dans le cadre du dispositif des certificats d’économies d’énergie. Il vise à financer la remise à niveau et la modernisation du réseau ferré national pour améliorer la fiabilité, les horaires, les fréquences et la vitesse des trains de voyageurs et de marchandises, avec des versements plafonnés à 241 millions d’euros pour les contributions effectuées jusqu’au 31 décembre 2029. Le public peut déposer ses observations dans le cadre de cette consultation ouverte du 28 septembre 2026 au 19 octobre 2026 inclus."
   },
   {
     "title": "Projet d’arrêté modifiant la définition de la précarité énergétique dans le cadre du dispositif des certificats d’économies d’énergie et adaptant les bonifications des secteurs résidentiel et du transport",
     "category": "Projet d’arrêté modifiant la définition de la précarité énergétique dans le cadre du dispositif des certificats d’économies d’énergie et adaptant les bonifications des secteurs résidentiel et du transport",
     "opened_at": "2026-09-29",
     "closes_at": "2026-10-22",
-    "days_left": 8,
-    "contributions": 2,
+    "days_left": 7,
+    "contributions": 3,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-la-definition-de-la-a3438.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Le gouvernement propose de modifier la définition de la « précarité énergétique » utilisée dans le dispositif des certificats d’économies d’énergie, un système qui finance des aides pour réduire la consommation d’énergie des ménages. Le texte prévoit d’élargir le nombre de ménages considérés comme en situation de précarité, à la fois dans le secteur des transports (ménages des déciles de revenus D1 à D5 au lieu de D1 à D3) et dans les autres secteurs comme le bâtiment (en incluant les ménages « modestes » en plus des « très modestes »), tout en ajustant les montants des aides pour maintenir des niveaux proches. Les citoyens peuvent participer en ligne jusqu’au 22 octobre 2026, dans le cadre prévu par l’article L.123-19-1 du code de l’environnement."
+    "digest": "Ce projet d’arrêté concerne les certificats d’économies d’énergie (CEE), un système qui finance des travaux pour réduire la consommation d’énergie, et vise à modifier la définition des ménages considérés comme en situation de précarité énergétique. Il élargit la catégorie des ménages concernés : dans le secteur des transports, le seuil passe des 30 % aux 50 % des ménages aux revenus les plus bas, et dans les autres secteurs comme le bâtiment, il inclut désormais aussi les ménages « modestes » en plus des « très modestes », les montants d’aide étant ajustés pour rester proches des niveaux actuels. Le public peut déposer ses observations jusqu’au 22 octobre 2026, dans le cadre prévu par l’article L.123-19-1 du code de l’environnement."
   },
   {
     "title": "Projet d’arrêté prévoyant des bonifications particulières pour les opérations relatives aux offres intégrées sélectionnées dans le cadre de l’appel à candidatures « Offres intégrées pompes à chaleur » de l’agence de l’environnement et de la maîtrise de l’énergie, dans le cadre du dispositif des certificats d’économies d’énergie",
     "category": "Projet d’arrêté prévoyant des bonifications particulières pour les opérations relatives aux offres intégrées sélectionnées dans le cadre de l’appel à candidatures « Offres intégrées pompes à chaleur » de l’agence de l’environnement et de la maîtrise de l’énergie, dans le cadre du dispositif des certificats d’économies d’énergie",
     "opened_at": "2026-09-29",
     "closes_at": "2026-10-22",
-    "days_left": 8,
+    "days_left": 7,
     "contributions": 2,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-prevoyant-des-bonifications-a3437.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté porte sur les certificats d’économies d’énergie et concerne des offres groupées pour l’installation de pompes à chaleur, sélectionnées par l’ADEME lors d’un appel à candidatures. Il prévoit des aides financières renforcées pour ces offres, qui réunissent l’installation, la maintenance et une fourniture d’énergie à prix fixe pendant trois ans, sans possibilité de cumul avec l’aide MaPrimeRénov’ geste, et instaure des contrôles sur site allant de 50 % à 100 % selon les dates. Le public peut déposer ses observations dans le cadre de cette consultation jusqu’au 22 octobre 2026."
+    "digest": "Ce projet de texte porte sur les aides versées via les certificats d'économies d'énergie pour l'installation de pompes à chaleur, dans le cadre d'offres sélectionnées par l'ADEME. Il prévoit des aides renforcées pour des offres groupant l'installation, l'entretien et une fourniture d'énergie à prix fixe pendant trois ans, sans possibilité de cumuler l'aide MaPrimeRénov' par geste, ainsi que des contrôles sur place passant de 50 % à l'entrée en vigueur à 100 % au 1er janvier 2028. Le public peut déposer ses observations jusqu'au 22 octobre 2026, dans le cadre prévu par l'article L.123-19-1 du code de l'environnement."
   },
   {
     "title": "Projets de décret relatif aux plans de prévention des risques naturels et à la prévention des inondations et d’arrêté relatif à la détermination, qualification et représentation cartographique de l’aléa de référence dans le cadre de l’élaboration ou de la révision des plans de prévention des risques concernant les aléas débordement de cours d’eau, ruissellements et submersion marine",
     "category": "Projets de décret relatif aux plans de prévention des risques naturels et à la prévention des inondations et d’arrêté relatif à la détermination, qualification et représentation cartographique de l’aléa de référence dans le cadre de l’élaboration ou de la révision des plans de prévention des risques concernant les aléas débordement de cours d’eau, (…)",
-    "opened_at": "2026-10-01",
+    "opened_at": "2026-10-14",
     "closes_at": "2026-10-23",
-    "days_left": 9,
+    "days_left": 8,
     "contributions": 19,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projets-de-decret-relatif-aux-plans-de-prevention-a3445.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ces projets de décret et d'arrêté portent sur les plans de prévention des risques d'inondation et de submersion marine, des documents élaborés par l'État pour encadrer les constructions dans les zones exposées à ces risques. Ils prévoient de tenir compte du changement climatique en majorant par un coefficient l'épisode de référence servant au calcul du risque, de représenter ce risque sur une carte unique, et d'alléger certaines procédures administratives, en remplacement des textes de juillet 2019. Le public peut déposer ses observations dans le cadre de cette consultation ouverte du 1er octobre 2026 au 23 octobre 2026."
+    "digest": "Il s'agit d'un projet de décret et d'un projet d'arrêté qui modifient les règles d'élaboration des plans de prévention des risques d'inondation par débordement de cours d'eau, par ruissellement et par submersion marine, ces plans servant à encadrer les constructions dans les zones exposées. Les textes prévoient de tenir compte du changement climatique en majorant par un coefficient l'épisode de référence utilisé pour établir les cartes de risque, et d'alléger certaines démarches administratives liées à ces plans, en remplacement des textes de juillet 2019. La consultation du public est ouverte du 14 octobre 2026 au 23 octobre 2026."
   },
   {
     "title": "Projet d’arrêté portant sur la modification de l’arrêté du 27 octobre 2015 portant désignation du site Natura 2000 « Réseau hydrographique du Dropt » (zone spéciale de conservation)",
     "category": "Projet d’arrêté portant sur la modification de l’arrêté du 27 octobre 2015 portant désignation du site Natura 2000 « Réseau hydrographique du Dropt » (zone spéciale de conservation)",
     "opened_at": "2026-10-01",
     "closes_at": "2026-10-24",
-    "days_left": 10,
+    "days_left": 9,
     "contributions": 1,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-sur-la-modification-de-l-a3425.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Cette consultation porte sur un projet d'arrêté qui modifie un texte de 2015 concernant le site naturel protégé Natura 2000 « Réseau hydrographique du Dropt », classé zone spéciale de conservation. Le détail des modifications prévues n'est pas précisé dans le document fourni. Le public peut participer jusqu'au 24 octobre 2026, date de clôture de la consultation ouverte depuis le 1er octobre 2026."
+    "digest": "Cette consultation porte sur un projet de modification d'un arrêté de 2015 qui a classé le site Natura 2000 « Réseau hydrographique du Dropt » en zone spéciale de conservation, un dispositif de protection de la nature. Le détail des changements prévus n'est pas précisé dans le texte fourni. Le public peut participer jusqu'au 24 octobre 2026, la consultation étant ouverte depuis le 1er octobre 2026."
   },
   {
     "title": "Projet d’arrêté modifiant l’arrêté du 14 octobre 2014 portant désignation du site Natura 2000 « Château d’Orthez et bords du gave » (zone spéciale de conservation)",
     "category": "Projet d’arrêté modifiant l’arrêté du 14 octobre 2014 portant désignation du site Natura 2000 « Château d’Orthez et bords du gave » (zone spéciale de conservation)",
     "opened_at": "2026-10-01",
     "closes_at": "2026-10-24",
-    "days_left": 10,
+    "days_left": 9,
     "contributions": 1,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-l-arrete-du-14-octobre-a3427.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d'arrêté modifie un texte de 2014 concernant le site Natura 2000 « Château d'Orthez et bords du gave », classé comme zone spéciale de conservation pour la protection de la nature. Le contenu précis des modifications prévues n'est pas détaillé dans le document fourni. La consultation est ouverte du 1er octobre 2026 au 24 octobre 2026 pour recueillir les observations du public."
+    "digest": "Cette consultation porte sur un projet d'arrêté qui modifie un texte de 2014 concernant le site naturel protégé « Château d'Orthez et bords du gave », classé zone spéciale de conservation Natura 2000. Le contenu précis des modifications prévues n'est pas détaillé dans le document fourni. Le public peut participer du 1er octobre 2026 au 24 octobre 2026."
   },
   {
     "title": "Projet d’arrêté modifiant l’arrêté du 14 octobre 2014 portant désignation du site Natura 2000 « Gave de Pau » (zone spéciale de conservation)",
     "category": "Projet d’arrêté modifiant l’arrêté du 14 octobre 2014 portant désignation du site Natura 2000 « Gave de Pau » (zone spéciale de conservation)",
     "opened_at": "2026-10-01",
     "closes_at": "2026-10-24",
-    "days_left": 10,
+    "days_left": 9,
     "contributions": 1,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-l-arrete-du-14-octobre-a3429.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d'arrêté modifie un texte de 2014 qui définit le site naturel protégé « Gave de Pau », classé zone spéciale de conservation dans le cadre du réseau européen Natura 2000. Le détail des modifications prévues n'est pas précisé dans le texte fourni. La consultation est ouverte du 1er octobre 2026 au 24 octobre 2026."
+    "digest": "Ce projet d'arrêté vise à modifier un texte de 2014 qui avait désigné le secteur du « Gave de Pau » comme site Natura 2000, un dispositif de protection de certains espaces naturels. Le contenu précis des modifications prévues n'est pas détaillé dans les éléments fournis. Le public peut participer à cette consultation du 1er octobre 2026 au 24 octobre 2026."
   },
   {
     "title": "Projet d’arrêté portant modification de fiches d’opérations standardisées du dispositif des certificats d’économies d’énergie",
     "category": "Projet d’arrêté portant modification de fiches d’opérations standardisées du dispositif des certificats d’économies d’énergie",
     "opened_at": "2026-10-05",
     "closes_at": "2026-10-27",
-    "days_left": 13,
-    "contributions": 7,
+    "days_left": 12,
+    "contributions": 8,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-modification-de-fiches-d-a3446.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d'arrêté modifie des fiches techniques du dispositif des certificats d'économies d'énergie (CEE), un mécanisme qui encourage des travaux d'économie d'énergie dans les bâtiments. Il prévoit d'exclure les entrepôts, réserves et locaux de stockage (frigorifiques ou non) du bénéfice de quinze fiches concernant le chauffage, la ventilation, la climatisation et les pompes à chaleur, d'ajuster les contrôles en conséquence, et de fixer au 31 décembre 2028 une date de fin de validité pour neuf de ces fiches qui n'en avaient pas. Le public peut transmettre ses observations jusqu'au 27 octobre 2026, dans le cadre de la consultation prévue par l'article L.123-19-1 du code de l'environnement."
+    "digest": "Ce projet d'arrêté modifie plusieurs fiches techniques du dispositif des certificats d'économies d'énergie (CEE), un mécanisme qui soutient financièrement des travaux de rénovation énergétique dans les bâtiments. Il exclut les entrepôts logistiques, réserves, entrepôts frigorifiques ou non et locaux de stockage de quinze fiches concernant le chauffage, la ventilation et la climatisation des bâtiments tertiaires, met à jour les contrôles correspondants et fixe au 31 décembre 2028 la date de fin de validité de neuf de ces fiches. Le public peut transmettre ses observations jusqu'au 27 octobre 2026, dans le cadre de la consultation prévue par l'article L.123-19-1 du code de l'environnement."
   },
   {
     "title": "Projet d’ordonnance relative à la création de régimes de mise en service, de fonctionnement, d’exploitation, de contrôle et de cessation d’activité des élevages d’animaux",
     "category": "Projet d’ordonnance relative à la création de régimes de mise en service, de fonctionnement, d’exploitation, de contrôle et de cessation d’activité des élevages d’animaux",
     "opened_at": "2026-10-06",
     "closes_at": "2026-10-28",
-    "days_left": 14,
-    "contributions": 9,
+    "days_left": 13,
+    "contributions": 13,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-ordonnance-relative-a-la-creation-de-a3440.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet de texte crée dans le code de l'environnement un ensemble de règles propres aux élevages d'animaux, aujourd'hui soumis au même régime que les installations industrielles classées. Il prévoit de classer les élevages selon quatre niveaux d'exigence (déclaration, notification, permis simplifié, autorisation) en fonction des pollutions, risques et nuisances possibles, fixe des règles communes pour leur fonctionnement et leur fin d'activité, et transpose des évolutions du droit européen sur les émissions d'élevage. Le public peut déposer ses observations via le lien « Déposer votre commentaire » en bas de page jusqu'au 28 octobre 2026 inclus."
+    "digest": "Ce projet d'ordonnance crée dans le code de l'environnement un nouveau cadre juridique dédié aux élevages d'animaux, distinct du régime actuel des installations classées conçu surtout pour les activités industrielles. Il prévoit de classer les élevages en quatre régimes (déclaration, notification, permis simplifié et autorisation) selon leur niveau de pollutions, de risques ou de nuisances, avec des règles de fonctionnement, de contrôle, de sanction et de remise en état des sites, et transpose des évolutions du droit européen. Le public peut déposer ses observations via le lien « Déposer votre commentaire » en bas de la page de consultation, jusqu'au 20 octobre 2026 inclus."
   },
   {
     "title": "Plan national d’actions en faveur des migrateurs amphihalins",
     "category": "Plan national d’actions en faveur des migrateurs amphihalins",
     "opened_at": "2026-10-06",
     "closes_at": "2026-10-28",
-    "days_left": 14,
+    "days_left": 13,
     "contributions": 1,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-d-actions-en-faveur-des-migrateurs-a3431.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet est un plan national d'actions de l'État pour les poissons et crustacés dits « amphihalins », c'est-à-dire ceux qui migrent entre l'eau douce et la mer, comme le saumon atlantique, dans l'Hexagone et les départements et régions d'Outre-mer. Prévu pour la période 2026-2036, il prévoit 35 actions réparties en six thèmes (lien terre-mer, pêche, habitats et circulation des poissons dans les cours d'eau, pisciculture et repeuplement, suivis et évaluations, communication et formation) et concerne 12 espèces dans l'Hexagone et 77 dans les DROM. La consultation est ouverte du 6 au 28 octobre 2026, le public pouvant réagir à la version de travail du plan mise en ligne."
+    "digest": "Il s'agit d'un projet de plan national qui vise à améliorer l'état des poissons et crustacés dits « amphihalins », c'est-à-dire ceux qui vivent entre eaux douces et eaux salées, comme le saumon atlantique, en métropole et dans les Outre-mer. Prévu pour la période 2026-2036, le plan prévoit 35 actions réparties en six thèmes : le lien entre la terre et la mer, la pêche, la restauration des rivières et la circulation des poissons, l'élevage et le repeuplement, le suivi scientifique, ainsi que la communication et la formation. Le public peut donner son avis sur cette version de travail du 6 au 28 octobre 2026."
   },
   {
     "title": "Projet d’arrêté relatif au nombre maximum d’alouettes des champs pouvant être capturées au moyen de pantes dans les départements de la Gironde, des Landes, du Lot-et-Garonne et des Pyrénées-Atlantiques pour la campagne 2026-2027",
     "category": "Projet d’arrêté relatif au nombre maximum d’alouettes des champs pouvant être capturées au moyen de pantes dans les départements de la Gironde, des Landes, du Lot-et-Garonne et des Pyrénées-Atlantiques pour la campagne 2026-2027",
     "opened_at": "2026-10-09",
     "closes_at": "2026-10-29",
-    "days_left": 15,
-    "contributions": 3107,
+    "days_left": 14,
+    "contributions": 3635,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-relatif-au-nombre-maximum-d-a3449.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [
@@ -210,130 +198,166 @@
       "47",
       "64"
     ],
-    "digest": "Ce projet d’arrêté fixe le nombre maximal d’alouettes des champs pouvant être capturées à l’aide de pantes (des paires de filets horizontaux) dans les départements de la Gironde, des Landes, du Lot-et-Garonne et des Pyrénées-Atlantiques pour la saison de chasse 2026-2027. Il prévoit des quotas de capture par département, entre le 1er octobre et le 20 novembre : 38 600 pour la Gironde, 56 672 pour les Landes, 1 230 pour le Lot-et-Garonne et 2 200 pour les Pyrénées-Atlantiques. La consultation publique est ouverte du 9 octobre 2026 au 29 octobre 2026."
+    "digest": "Ce projet d’arrêté fixe, pour la saison de chasse 2026-2027, le nombre maximum d’alouettes des champs pouvant être capturées à l’aide de filets horizontaux appelés « pantes » dans les départements de la Gironde, des Landes, du Lot-et-Garonne et des Pyrénées-Atlantiques. Il prévoit des quotas par département, soit 38 600 oiseaux en Gironde, 56 672 dans les Landes, 1 230 dans le Lot-et-Garonne et 2 200 dans les Pyrénées-Atlantiques, les captures étant autorisées entre le 1er octobre et le 20 novembre. Le public peut déposer ses observations dans le cadre de cette consultation jusqu’au 29 octobre 2026."
   },
   {
     "title": "Projet d’arrêté portant mise à jour de la liste des espèces animales et végétales exotiques envahissantes sur le territoire métropolitain",
     "category": "Projet d’arrêté portant mise à jour de la liste des espèces animales et végétales exotiques envahissantes sur le territoire métropolitain",
     "opened_at": "2026-10-07",
     "closes_at": "2026-10-30",
-    "days_left": 16,
+    "days_left": 15,
     "contributions": 11,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-portant-mise-a-jour-de-la-liste-a3448.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté met à jour la liste des espèces animales et végétales exotiques envahissantes réglementées en France métropolitaine. Il ajoute 26 espèces, déjà réglementées dans l’Union européenne, dont certaines sont déjà présentes (comme les renouées), d’autres en émergence (certains mollusques et vers plats) et d’autres encore absentes mais susceptibles d’arriver. Le public peut déposer ses observations jusqu’au 30 octobre 2026."
-  },
-  {
-    "title": "Consultation publique sur le projet d'arrêté abrogeant et remplaçant l’arrêté du 27 avril 2021 relatif à la lutte contre la flavescence dorée de la vigne et contre son agent vecteur",
-    "category": "Alimentation",
-    "opened_at": "2026-10-08",
-    "closes_at": "2026-10-30",
-    "days_left": 16,
-    "contributions": 0,
-    "url": "https://agriculture.gouv.fr/consultation-publique-sur-le-projet-darrete-abrogeant-et-remplacant-larrete-du-27-avril-2021",
-    "source": "agriculture.gouv.fr",
-    "departements": [],
-    "digest": "Ce projet d'arrêté remplace celui du 27 avril 2021 qui encadre la lutte contre la flavescence dorée, une maladie de la vigne transmise par un insecte. Il prévoit d'introduire des mesures pour contenir la maladie là où son élimination complète n'est plus visée (notamment dans une partie du vignoble de Nouvelle-Aquitaine), de reconnaître des zones sans maladie, d'adapter les seuils d'arrachage et les calendriers de traitement aux situations locales, de fixer des règles pour la circulation des plants de vigne conformes au droit européen, et de préciser le rôle de chaque acteur. Le public peut participer en ligne via le lien de la consultation, du 8 octobre au 30 octobre 2026 inclus."
+    "digest": "Ce projet d’arrêté met à jour la liste des espèces animales et végétales exotiques envahissantes réglementées en France métropolitaine. Il ajoute 26 nouvelles espèces, déjà réglementées dans l’Union européenne, certaines déjà présentes comme les renouées, d’autres en émergence comme certains mollusques et vers plats, d’autres pas encore présentes sur le territoire. La consultation du public est ouverte du 7 octobre 2026 au 30 octobre 2026."
   },
   {
     "title": "Consultation du public relative au complément à l’étude d’impact du dossier d’enquête publique préalable à la déclaration d’utilité publique du contournement Ouest de Montpellier s’agissant des mesures compensatoires liées au risque inondation",
     "category": "Consultation du public relative au complément à l’étude d’impact du dossier d’enquête publique préalable à la déclaration d’utilité publique du contournement Ouest de Montpellier s’agissant des mesures compensatoires liées au risque inondation",
     "opened_at": "2026-10-09",
     "closes_at": "2026-11-02",
-    "days_left": 19,
-    "contributions": 85,
+    "days_left": 18,
+    "contributions": 91,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/consultation-du-public-relative-au-complement-a-l-a3442.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Cette consultation porte sur le contournement Ouest de Montpellier, un projet routier qui prévoit d'élargir à 2×2 voies environ 6 km de routes existantes entre Juvignac, Montpellier et Saint-Jean-de-Védas ; elle fait suite à une décision de justice demandant de compléter l'étude sur les mesures prévues contre le risque d'inondation. Pour compenser ce risque, le projet prévoit l'aménagement d'un canal d'évacuation le long de la route nationale 109 et la création d'une zone où les eaux de crue pourront s'étendre en bordure de la Mosson, sur le site d'Engarran. Le public peut consulter le dossier et transmettre ses observations par voie électronique jusqu'au 2 novembre 2026."
+    "digest": "Cette consultation porte sur le projet de contournement Ouest de Montpellier, un réaménagement d'environ 6 km de routes existantes en 2×2 voies, et fait suite à une décision de justice de juillet 2026 demandant de compléter l'étude sur les mesures prévues face au risque d'inondation. Pour limiter ce risque, deux aménagements sont proposés : un chenal destiné à évacuer l'eau le long de la route nationale 109 et une zone conçue pour accueillir le trop-plein des crues le long de la Mosson, sur le site d'Engarran. Le public peut consulter le dossier et transmettre ses observations par voie électronique jusqu'au 2 novembre 2026."
   },
   {
     "title": "Projet d’arrêté modifiant l’arrêté du 17 mars 2006 relatif au contenu des schémas directeurs d’aménagement et de gestion des eaux",
     "category": "Projet d’arrêté modifiant l’arrêté du 17 mars 2006 relatif au contenu des schémas directeurs d’aménagement et de gestion des eaux",
     "opened_at": "2026-10-13",
     "closes_at": "2026-11-03",
-    "days_left": 20,
-    "contributions": 8,
+    "days_left": 19,
+    "contributions": 11,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-l-arrete-du-17-mars-2006-a3450.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté modifie un texte de 2006 qui définit le contenu des schémas directeurs d’aménagement et de gestion des eaux (SDAGE), documents de planification de la gestion de l’eau par grand bassin, en vue du prochain cycle prévu par la directive-cadre européenne sur l’eau. Il prévoit notamment de retirer certaines pièces aujourd’hui obligatoires en annexe (dispositif de suivi et stratégie d’organisation des compétences locales de l’eau), d’ajouter un résumé des impacts du SDAGE sur l’agriculture, de recourir à des objectifs moins stricts pour les masses d’eau de surface et souterraines qui ne sont pas en bon état, avec une liste des masses d’eau à cibler en priorité, et de mettre à jour les règles sur les dérogations et les débits. Le public peut déposer ses observations dans le cadre de cette consultation ouverte du 13 octobre 2026 jusqu’au 3 novembre 2026."
+    "digest": "Cette consultation porte sur un projet d'arrêté qui modifie les règles de 2006 encadrant le contenu des SDAGE, les documents qui planifient la gestion de l'eau par grand bassin, en vue du prochain cycle de la directive européenne sur l'eau. Le texte simplifie l'élaboration de ces documents, supprime certaines annexes obligatoires, en ajoute une consacrée aux impacts économiques sur l'agriculture, et prévoit des objectifs moins stricts pour les masses d'eau dont l'état n'est pas bon, avec une liste des cours d'eau prioritaires. Le public peut déposer ses observations jusqu'au 3 novembre 2026, dans le cadre prévu par l'article L. 123-19-1 du code de l'environnement."
   },
   {
     "title": "Projet d’arrêté relatif à l’intégration des véhicules légers répondant à la norme Euro 7 dans la nomenclature Crit’Air",
     "category": "Projet d’arrêté relatif à l’intégration des véhicules légers répondant à la norme Euro 7 dans la nomenclature Crit’Air",
     "opened_at": "2026-10-13",
     "closes_at": "2026-11-03",
-    "days_left": 20,
+    "days_left": 19,
     "contributions": 2,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-relatif-a-l-integration-des-a3453.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Cette consultation porte sur un projet d'arrêté qui met à jour le classement des vignettes Crit'Air, utilisées pour identifier les véhicules selon leur niveau de pollution, afin d'y intégrer les voitures et utilitaires légers répondant à la future norme européenne Euro 7. Le texte prévoit de classer les véhicules légers à essence conformes à cette norme en Crit'Air 1 et leurs équivalents diesel en Crit'Air 2, sans changer les règles pour les autres catégories de véhicules déjà classées. Le public peut participer dans le cadre prévu par le code de l'environnement, du 13 octobre 2026 au 3 novembre 2026."
+    "digest": "Cette consultation porte sur un projet d'arrêté visant à mettre à jour la classification des vignettes Crit'Air pour y intégrer la nouvelle norme européenne Euro 7, qui s'appliquera aux voitures particulières et aux véhicules utilitaires légers. Le texte prévoit de classer les véhicules légers à essence conformes à cette norme en Crit'Air 1 et leurs équivalents diesel en Crit'Air 2, en maintenant la distinction déjà en vigueur, sans modifier le classement des autres catégories de véhicules. Le public peut participer en ligne du 13 octobre 2026 au 3 novembre 2026."
+  },
+  {
+    "title": "Décret relatif à la consultation du public pour les projets d’ouvrages de stockage soumis à autorisation",
+    "category": "Décret relatif à la consultation du public pour les projets d’ouvrages de stockage soumis à autorisation",
+    "opened_at": "2026-10-14",
+    "closes_at": "2026-11-04",
+    "days_left": 20,
+    "contributions": 7,
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/decret-relatif-a-la-consultation-du-public-pour-a3460.html",
+    "source": "consultations-publiques.developpement-durable.gouv.fr",
+    "departements": [],
+    "digest": "Ce décret concerne la procédure de consultation du public pour les projets de réserves de stockage d'eau qui nécessitent une autorisation environnementale. Il prévoit que le porteur d'un tel projet pourra, s'il le souhaite, demander l'organisation d'une réunion publique de clôture de la consultation, alors que cette réunion était jusqu'ici obligatoire. Le public peut réagir à ce projet de texte jusqu'au 4 novembre 2026."
   },
   {
     "title": "Projet d’arrêté relatif à l’amélioration de la collecte de données sur les captures accidentelles de mammifères marins et à l’expérimentation d’un dispositif technique de réduction des captures accidentelles de dauphin commun à bord de navires de pêche sous pavillon français.",
     "category": "Projet d’arrêté relatif à l’amélioration de la collecte de données sur les captures accidentelles de mammifères marins et à l’expérimentation d’un dispositif technique de réduction des captures accidentelles de dauphin commun à bord de navires de pêche sous pavillon français.",
     "opened_at": "2026-10-13",
     "closes_at": "2026-11-04",
-    "days_left": 21,
-    "contributions": 1,
+    "days_left": 20,
+    "contributions": 2,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-relatif-a-l-amelioration-de-la-a3451.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d'arrêté ministériel concerne la pêche dans le golfe de Gascogne et vise à mieux recueillir des données sur les captures accidentelles de dauphins et autres petits cétacés durant l'hiver 2026-2027. Il prévoit que certains navires de pêche sous pavillon français, désignés par une liste officielle, soient obligatoirement équipés d'un dispositif acoustique appelé « CETASAVER PIFIL » destiné à éloigner les dauphins, entre le 1er décembre 2026 et le 30 avril 2027. Le public peut déposer ses observations sur cette consultation jusqu'au 4 novembre 2026."
+    "digest": "Ce projet d'arrêté ministériel porte sur la collecte de données concernant les captures accidentelles de dauphins par les bateaux de pêche français et sur un test d'équipement visant à réduire ces captures dans le golfe de Gascogne, entre le 1er décembre 2026 et le 30 avril 2027. Il prévoit que des navires inscrits sur une liste publiée au bulletin officiel de la mer soient obligatoirement équipés d'un dispositif acoustique appelé « CETASAVER PIFIL », destiné à éloigner les dauphins, et qu'ils participent à une collecte de données scientifiques, notamment via l'emport de caméras. Le public peut déposer ses observations jusqu'au 4 novembre 2026, date de clôture de la consultation ouverte le 13 octobre 2026."
+  },
+  {
+    "title": "Projet de décret en Conseil d’État relatif aux conditions d’application des exonérations de mesures compensatoires aux autorisations de défrichement prévues à l’article L. 341-6 du code forestier",
+    "category": "Projet de décret en Conseil d’État relatif aux conditions d’application des exonérations de mesures compensatoires aux autorisations de défrichement prévues à l’article L. 341-6 du code forestier",
+    "opened_at": "2026-10-14",
+    "closes_at": "2026-11-05",
+    "days_left": 21,
+    "contributions": 3,
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-de-decret-en-conseil-d-etat-relatif-aux-a3457.html",
+    "source": "consultations-publiques.developpement-durable.gouv.fr",
+    "departements": [],
+    "digest": "Ce projet de décret fixe les règles permettant d'être dispensé des mesures de compensation normalement exigées lorsqu'on détruit une zone boisée, dans le cas précis de défrichements réalisés pour protéger ou restaurer la nature ou les paysages dans certains espaces naturels (parcs nationaux, parcs naturels régionaux, réserves naturelles, sites Natura 2000, etc.). Il précise les documents à fournir pour obtenir cette dispense, à savoir une notice expliquant le projet validée par le gestionnaire de l'espace concerné et le plan ou programme de gestion de cet espace, et prévoit que l'Office national des forêts dépose ces pièces pour les forêts relevant du régime forestier. Les citoyens peuvent participer en ligne, au titre de la consultation publique prévue par le code de l'environnement, jusqu'au 5 novembre 2026, en indiquant le mot « favorable » ou « défavorable » dans le titre de leur contribution."
   },
   {
     "title": "Projet d’arrêté RPD pour l’année 2027 modifiant l’arrêté du 22 novembre 2010 établissant la liste des substances soumises à la redevance pour pollutions diffuses",
     "category": "Projet d’arrêté RPD pour l’année 2027 modifiant l’arrêté du 22 novembre 2010 établissant la liste des substances soumises à la redevance pour pollutions diffuses",
     "opened_at": "2026-10-13",
     "closes_at": "2026-11-06",
-    "days_left": 23,
+    "days_left": 22,
     "contributions": 1,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-rpd-pour-l-annee-2027-modifiant-l-a3458.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d’arrêté met à jour, pour l’année 2027, la liste des produits chimiques soumis à une taxe liée à leur usage polluant, en tenant compte des connaissances scientifiques les plus récentes. Il modifie cette liste en s’appuyant sur les classifications et avis publiés par les agences sanitaires et réglementaires européennes et françaises, la catégorie de taxation d’une substance étant fixée selon le niveau de classement le plus élevé qui lui est attribué. Le public peut consulter le projet d’arrêté en téléchargement et transmettre ses observations jusqu’au 6 novembre 2026, la consultation ayant débuté le 13 octobre 2026."
+    "digest": "Ce projet d’arrêté met à jour la liste des substances soumises à la redevance pour pollutions diffuses, une taxe liée à certains produits chimiques, pour l’année 2027. Il modifie cette liste en fonction des dernières classifications scientifiques des substances issues des bases de données et avis d’agences françaises et européennes, en retenant pour chaque substance la classification la plus élevée pour déterminer sa catégorie de taxation. Le public peut consulter le projet d’arrêté et sa note de présentation, disponibles en téléchargement, et participer jusqu’au 6 novembre 2026."
+  },
+  {
+    "title": "Projet d’arrêté modifiant l’article 5-1 de l’arrêté du 29 décembre 2014 relatif aux modalités d’application du dispositif des certificats d’économies d’énergie, relatif à la bonification des opérations spécifiques industrielles entrant dans le champ d’application du mécanisme d’ajustement carbone aux frontières.",
+    "category": "Projet d’arrêté modifiant l’article 5-1 de l’arrêté du 29 décembre 2014 relatif aux modalités d’application du dispositif des certificats d’économies d’énergie, relatif à la bonification des opérations spécifiques industrielles entrant dans le champ d’application du mécanisme d’ajustement carbone aux frontières.",
+    "opened_at": "2026-10-15",
+    "closes_at": "2026-11-07",
+    "days_left": 23,
+    "contributions": 0,
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-l-article-5-1-de-l-a3459.html",
+    "source": "consultations-publiques.developpement-durable.gouv.fr",
+    "departements": [],
+    "digest": "Ce projet d’arrêté modifie les règles des certificats d’économies d’énergie (CEE), un dispositif qui permet aux entreprises d’obtenir un soutien financier pour des travaux réduisant leur consommation d’énergie, pour certaines industries (acier, aluminium, ciment, engrais). Il prévoit de faire passer de 2 à 3 le coefficient qui augmente le volume de certificats accordés à ces industries, tout en maintenant un plafond limitant cette aide à 65 % des dépenses d’investissement, et de repousser du 30 septembre au 31 décembre 2026 la date limite pour engager les opérations concernées. Le public peut déposer ses observations dans le cadre de cette consultation ouverte du 15 octobre 2026 au 7 novembre 2026."
+  },
+  {
+    "title": "Projet d’arrêté modifiant l’arrêté du 9 juin 2021 fixant les prescriptions techniques générales applicables aux plans d’eau, y compris en ce qui concerne les modalités de vidange, relevant de la rubrique 3.2.3.0 de la nomenclature annexée à l’article R. 214-1 du code de l’environnement",
+    "category": "Projet d’arrêté modifiant l’arrêté du 9 juin 2021 fixant les prescriptions techniques générales applicables aux plans d’eau, y compris en ce qui concerne les modalités de vidange, relevant de la rubrique 3.2.3.0 de la nomenclature annexée à l’article R. 214-1 du code de l’environnement",
+    "opened_at": "2026-10-14",
+    "closes_at": "2026-11-08",
+    "days_left": 24,
+    "contributions": 0,
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/projet-d-arrete-modifiant-l-arrete-du-9-juin-2021-a3462.html",
+    "source": "consultations-publiques.developpement-durable.gouv.fr",
+    "departements": [],
+    "digest": "Ce projet modifie un arrêté de 2021 qui encadre la création de plans d'eau dans les zones humides. Il supprime les conditions strictes d'implantation actuellement exigées pour les plans d'eau de moins d'un hectare, qui resteraient soumis aux démarches habituelles de la loi sur l'eau, tandis que les plans d'eau d'un hectare ou plus continueraient de relever de ces conditions renforcées. Le public peut déposer ses observations jusqu'au 8 novembre 2026."
   },
   {
     "title": "Consultation du public concernant le projet de plan de prévention du bruit dans l’environnement (PPBE) de l’aérodrome de Paris-Le Bourget pour la période 2024-2028",
     "category": "Consultation du public concernant le projet de plan de prévention du bruit dans l’environnement (PPBE) de l’aérodrome de Paris-Le Bourget pour la période 2024-2028",
     "opened_at": "2026-09-07",
     "closes_at": "2026-11-09",
-    "days_left": 26,
+    "days_left": 25,
     "contributions": 78,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/consultation-du-public-concernant-le-projet-de-a3421.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [
       "75"
     ],
-    "digest": "L'aéroport de Paris-Le Bourget, qui a enregistré environ 57 385 mouvements d'avions en 2024, doit se doter d'un plan de prévention du bruit pour la période 2024-2028, document établi tous les cinq ans pour les grandes plateformes aéroportuaires. Ce plan dresse le bilan des actions menées ces dernières années contre les nuisances sonores et liste les mesures prévues pour maîtriser le bruit et limiter la gêne ressentie par les riverains, en s'appuyant sur des cartes de bruit basées sur le trafic de 2022 et les prévisions pour 2028. Le public peut consulter le projet et transmettre ses observations jusqu'au 7 novembre 2026, avant que le plan ne puisse être approuvé par arrêté interpréfectoral."
+    "digest": "L’aéroport de Paris-Le Bourget doit élaborer un plan de prévention du bruit dans l’environnement (PPBE) pour la période 2024-2028, car il a enregistré environ 57 385 mouvements d’avions en 2024, soit plus que le seuil de 50 000 qui rend ce document obligatoire. Ce plan dresse le bilan des actions déjà menées pour réduire le bruit et liste les mesures prévues jusqu’en 2028 pour limiter les nuisances sonores subies par les riverains, en s’appuyant sur des cartes du bruit établies à partir du trafic de 2022 et des prévisions pour 2028. Le public peut consulter ce projet et transmettre ses observations du 7 septembre 2026 au 7 novembre 2026, ces remarques devant être prises en compte avant une éventuelle approbation du plan par arrêté."
   },
   {
     "title": "Synthèse de la consultation publique portant sur le projet d’arrêté modifiant le facteur de conversion de l’énergie finale en énergie primaire de l’électricité relatif au diagnostic de performance énergétique",
     "category": "Synthèse de la consultation publique portant sur le projet d’arrêté modifiant le facteur de conversion de l’énergie finale en énergie primaire de l’électricité relatif au diagnostic de performance énergétique",
     "opened_at": "2026-08-13",
     "closes_at": "2026-11-12",
-    "days_left": 29,
+    "days_left": 28,
     "contributions": 0,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/synthese-de-la-consultation-publique-portant-sur-a3412.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [],
-    "digest": "Ce projet d'arrêté concerne le diagnostic de performance énergétique (DPE), le classement qui note les logements de A à G selon leur consommation d'énergie. Il prévoit d'abaisser de 1,9 à 1,7 le coefficient utilisé pour convertir l'électricité consommée en énergie primaire, ce qui modifie l'étiquette de certains logements chauffés à l'électricité, et de mettre en place des attestations de changement d'étiquette téléchargeables via le site de l'ADEME, pour une entrée en vigueur au 1er janvier 2027. La consultation publique est ouverte jusqu'au 12 novembre 2026 sur le site des consultations publiques du ministère de la Transition écologique."
+    "digest": "Ce projet d’arrêté concerne le diagnostic de performance énergétique (DPE), le classement qui note les logements de A à G selon leur consommation d’énergie. Il prévoit d’abaisser de 1,9 à 1,7 le coefficient utilisé pour comptabiliser l’électricité, et de mettre en place des attestations de changement d’étiquette téléchargeables sur le site de l’ADEME pour les DPE et audits réalisés avant le 1er janvier 2027, date d’entrée en vigueur du texte. La consultation est ouverte du 13 août au 12 novembre 2026 sur le site des consultations publiques du ministère de la Transition écologique."
   },
   {
     "title": "Synthèse des commentaires du public pour le projet d’arrêté portant autorisation exceptionnelle, au titre de l’article L. 121-12-1 du code de l’urbanisme, en vue de l’implantation d’une installation photovoltaïque au sol sur la friche dite « de Goasorguen » située sur la commune de Plestin-les-Grèves (Côtes d’Amor)",
     "category": "Synthèse des commentaires du public pour le projet d’arrêté portant autorisation exceptionnelle, au titre de l’article L. 121-12-1 du code de l’urbanisme, en vue de l’implantation d’une installation photovoltaïque au sol sur la friche dite « de Goasorguen » située sur la commune de Plestin-les-Grèves (Côtes d’Amor)",
     "opened_at": "2026-09-24",
     "closes_at": "2026-12-31",
-    "days_left": 78,
+    "days_left": 77,
     "contributions": 0,
     "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/synthese-des-commentaires-du-public-pour-le-projet-a3436.html",
     "source": "consultations-publiques.developpement-durable.gouv.fr",
     "departements": [
       "22"
     ],
-    "digest": "Il s'agit de la synthèse des commentaires reçus lors d'une consultation publique sur un projet d'arrêté qui autoriserait, sur la commune de Plestin-les-Grèves (Côtes-d'Armor), une exception à une règle d'urbanisme pour permettre une construction malgré la loi littoral. Le projet prévoit l'installation de panneaux photovoltaïques posés au sol sur une friche appelée « de Goasorguen », en dérogeant à la règle qui impose en principe de construire dans la continuité des zones déjà urbanisées. La consultation du public sur ce projet s'est tenue du 3 au 31 août 2026, et le document téléchargeable sur cette page en présente la synthèse."
+    "digest": "Il s'agit d'un projet d'arrêté autorisant l'installation d'un parc de panneaux solaires au sol sur l'ancienne friche dite « de Goasorguen », sur la commune de Plestin-les-Grèves (Côtes-d'Armor). Ce projet prévoit une dérogation à la règle qui impose, dans les communes du littoral, de construire en continuité des zones déjà urbanisées. Le document mis en ligne est la synthèse des commentaires reçus lors de la consultation du public, qui s'est déroulée du 3 au 31 août 2026 et peut être téléchargée sur la page."
   }
 ]
